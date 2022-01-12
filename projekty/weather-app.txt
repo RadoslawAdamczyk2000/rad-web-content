@@ -1,0 +1,17 @@
+T: Weather App, sprawdzenie pogody z dowolnego miejsca, Śrem, Poznań
+D: Wybierasz się w podróż, lecz nie wiesz czy wziąć parasol, bądź okulary przeciwsłoneczne? W odpowiedzi na to pytanie pomoże Tobie ta aplikacja pogodowa.
+S: /projects/weather-app
+L: https://weather-app-snowy-omega.vercel.app/
+O: https://github.com/RadoslawAdamczyk2000/rad-web-content/blob/main/assets/weather-app.png?raw=true
+
+Tech:
+HTML, 
+React,
+Scss,
+JavaScript
+
+Snap: 
+Klasyczna aplikacja webowa, w której możesz sprawdzić pogodę w dowolnym miejscu na ziemii przy jednoczesnym sprawdzeniu lokalizacji w mapie Google.
+
+Text:
+Aplikacja WeatherApp została napisana pod wpływem inspiracji z jednego z filmów Samuraja Programowania, gdzie to Bartek pokazał jak komunikować się z API. Praca z API to fundament pracy teraźniejszego front-end developera. Do zbudowania tej aplikacji wykorzystałem Reacta, scss-modules oraz kilku baz danych, do ostylowania GoogleMaps oraz do odczytywania danych pogodowych. Odczytasz tutaj między innymi identyfikacje lokalizacji, strefę czasową, wschód oraz zachód słońca. Ponadto jest tutaj jeszcze minimalna, maksymalna, a także odczuwalna temperatura, ciśnienie, prędkość oraz kierunek wiatru, zachmurzenie oraz widoczność.

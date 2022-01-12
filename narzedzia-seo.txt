@@ -1,0 +1,45 @@
+Prosta analiza:
+https://www.seoptimer.com/
+
+Unikalność treści:
+https://www.copyscape.com/
+https://smallseotools.com/plagiarism-checker/
+
+Szybkość strony:
+https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect
+
+Dodawanie stron do indeksu Google:
+https://developers.google.com/search/docs/advanced/crawling/ask-google-to-recrawl?hl=pl&utm_source=wmx&utm_medium=deprecation-pane&utm_content=submit-url
+
+
+Analiza trendów w wyszukiwarce:
+https://trends.google.pl/trends/?geo=PL
+
+Crawler:
+https://www.screamingfrog.co.uk/seo-spider/
+
+Analityka:
+google.com
+https://algoroo.com/
+google.pl
+
+Keywords planner:
+http://kw.tre.sk/
+https://answerthepublic.com/
+https://neilpatel.com/ubersuggest/
+
+Sprawdzenie historii domen:
+https://archive.org/web/
+
+Sprawdzenie statusów http:
+https://httpstatus.io/
+
+Sprawdzenie linków do/nofollow:
+http://www.scrapebox.com/free-do-follow-test-tool
+
+Walidator stron internetowych:
+https://validator.w3.org/
+
+Sprawdzenie bezpieczeństwa serwisu:
+https://sitecheck.sucuri.net/results
+

@@ -2,6 +2,7 @@ T: Borówkowy Gaj, strona HTML, JavaScript, Bootstrap, Śrem, Poznań
 D: Strona napisana dla rodzinnego gospodarstwa sadowniczego, znajdującego się w okolicach Kórnika. Ta strona została napisana na początku mojej komercyjnej drogi web developerskiej.
 S: /blog/borowkowy-gaj
 L: https://borowkowy-gaj.pl/
+O: https://github.com/RadoslawAdamczyk2000/rad-web-content/blob/main/assets/borowkowy-gaj.png?raw=true
 
 Tech:
 HTML, 

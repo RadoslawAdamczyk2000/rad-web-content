@@ -2,6 +2,7 @@ T: Portfolio Filipa Bukowieckiego, technologia React Gatsby, Śrem, Poznań
 D: Strona internetowa napisana dla dobrze prosperującej osoby w świecie kinematografii - Filipa Bukowieckiego. Strona napisana w topowych technologiach zawsze siebie obroni.
 S: /projects/filip-bukowiecki
 L: https://filip-bukowiecki.vercel.app/
+O: https://github.com/RadoslawAdamczyk2000/rad-web-content/blob/main/assets/filip-bukowiecki.png?raw=true
 
 Tech:
 React,

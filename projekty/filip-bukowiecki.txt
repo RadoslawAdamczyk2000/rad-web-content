@@ -1,0 +1,20 @@
+T: Portfolio Filipa Bukowieckiego, technologia React Gatsby, Śrem, Poznań
+D: Strona internetowa napisana dla dobrze prosperującej osoby w świecie kinematografii - Filipa Bukowieckiego. Strona napisana w topowych technologiach zawsze siebie obroni.
+S: /projects/filip-bukowiecki
+L: https://filip-bukowiecki.vercel.app/
+
+Tech:
+React,
+JavaScript,
+HTML,
+Styled Components
+
+SNAP: 
+Znajomość klienta to podstawa. Znajomość z Filipem Bukowieckim pozwoliła mi na zaprojektowanie strony, która była zgodna z branżą i upodobaniami estetycznymi. Do sprostania tym wymaganiom użycie topowych technolgii było podstawą.
+
+Text: 
+Filip działa w gałęzi gospodarki związanej z wideo. To bardzo ważne przy wymyślenie niebanalnego wyglądu, który będzie się różnić od konkurencji. To zdeterminowało mnie do użycia iście filmowych kolorów, które nawiązują do genezy filmów - czerni oraz bieli. Jednak to nie oznacza, że strona nie jest monotonna z kliku powodów. Zastosowanie hooków React dostępnych od 16. wersji, a w szczególności useState co udostępniło opcję dynamicznej zmiany kolorów przy co raz to głębszym poznawaniu serwisu. Dla urozmaicenia serwisu wykorzystałem właściwość css dotyczących tła - background-atattchemnt ustawiony na fixed, co daje szersze doznania. Na życzenie klienta również zaimplementowałem film w górnej części strony, który stanowi jedynie przystawkę, a dalej zamieściłem nagrania video z YouTube z zamieszczeniem tagu iframe.
+
+
+
+

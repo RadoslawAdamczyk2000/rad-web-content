@@ -3,7 +3,7 @@ D: Szukasz opini, oceny bądź też plakatu związanego z Twoim ulubionym filmem
 S: /projects/movie-app
 C: 12.01.2022
 L: https://movie-app-xi-blush.vercel.app/
-O: 
+O: https://github.com/RadoslawAdamczyk2000/rad-web-content/blob/main/assets/movie-app.png?raw=true
 
 Tech:
 React,
@@ -12,9 +12,10 @@ HTML,
 Styled Components
 
 SNAP: 
-
+Do napisania tej aplikacji zainspirował mnie sam Netflix. Tym czego mi brakowało w tym serwisie to brak intuicyjności. Gdy krytykowałem tego amerykańskiego giganta wielu mi mówiło, że skoro samemu krytykujesz to zrób lepszy.
 
 Text: 
+To też podjąłem rękawice, i stworzyłem pierwszą wersję "MovieAPP", gdzie wykorzystałem bogatą bibliotekę portalu, który jest znany na całym świecie - IMDb. Ideą tego projektu była możliwość dodania dowolnego dzieła kinematografii do działu ulubionych, przy jednoczesnej opcji z sprawdzeniu jego daty produkcji, osób które już zdołały obejrzeć, oceny, opisu oraz plakatu. Zadanie na pierwszy rzut oka zdawało się być bardzo trudne. Na szczęście ktoś kiedyś powiedział, że nie ma rzeczy nie możliwych. To też po wielogodzinnym szukaniu informacji w wyszukiwarce Google zdobyłem wiedzę jak taką aplikację webową stworzyć. Do tego dzieła wykorzystałem bibliotekę ReactJS, wraz z react-icons oraz axios. W części wizualnej użyłem idei CSS-in-JS, a mianowicie styled components, co umożliwiło mi pisanie komponentów wielokrotnego użytku - czyż nie jest to ekologia? Jeśli zainteresowała Ciebie taka aplikacja, to zapraszam do przetestowania, oraz o feedback.
 
 
 

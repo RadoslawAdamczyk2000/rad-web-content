@@ -1,0 +1,15 @@
+T: Borówkowy Gaj, strona HTML, JavaScript, Bootstrap, Śrem, Poznań
+D: Strona napisana dla rodzinnego gospodarstwa sadowniczego, znajdującego się w okolicach Kórnika. Ta strona została napisana na początku mojej komercyjnej drogi web developerskiej.
+S: /blog/borowkowy-gaj
+L: https://borowkowy-gaj.pl/
+
+Tech:
+HTML, 
+Bootstrao,
+JavaScript
+
+Snap: 
+Strona, została napisana na początku mojej komercyjnej drogi web developerskiej. Moim pierwszym klientem byli Państwo Nowakowie z Konarskiego koło Kórnika. Państwo Nowakowie prowadzą rodzinne gospodarstwo sadownicze, gdzie w głównej mierze zajmują się plantacją borówek amerykańskich.
+
+Text:
+Dlaczego zdecydowałem napisać tą stronę? Bo wiem co promuję. Miałem przyjemność spróbowania efektów pracy konarskich plantatorów w postaci powideł borówkowych, których smak czuję po dziś dzień. Również miałem zaszczyt zawiązać znajomość z jednym z plantatorów, z Michałem, który bogato opowiedział o tym jak powinna wyglądać wzorcowe hodowanie owoców zza oceanu. Te powyższe powody, dają gwarancję tego, że promuję firmę, która robi swoją robotę dobrze i z pasją, co jest najistotniejsze w każdej branży oraz pracy. Serwis zdecydowałem stworzyć w klimatach borówkowych, poprzez zamieszczenie zdjęć wyjętych wprost z pól i plantacji, a także zastosowaniem kolorów takich jak fiolet i biel. Co do wyboru technologii, podjąłem decyję zaimplementowania w portalu HTML, CSS z frameworkiem Bootstrap oraz JavaScript'u.

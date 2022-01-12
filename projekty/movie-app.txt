@@ -1,0 +1,22 @@
+T: Aplikacja filmowa, bazująca na serwisie Netflix, Śrem, Poznań
+D: Szukasz opini, oceny bądź też plakatu związanego z Twoim ulubionym filmem? Dobrze trafiłeś! Wykorzystując API TMDB z pewnością znajdziesz to czego szukasz.
+S: /projects/movie-app
+C: 12.01.2022
+L: https://movie-app-xi-blush.vercel.app/
+O: 
+
+Tech:
+React,
+JavaScript,
+HTML,
+Styled Components
+
+SNAP: 
+
+
+Text: 
+
+
+
+
+
